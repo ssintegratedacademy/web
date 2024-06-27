@@ -674,14 +674,14 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
 .top-bar {
   border-bottom: 1px solid rgba(255, 255, 255, 0.2); }
 
-.zaratech_co-hero, .bg-img {
+.AR_co-hero, .bg-img {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   position: relative; }
-  .zaratech_co-hero.overlay, .bg-img.overlay {
+  .AR_co-hero.overlay, .bg-img.overlay {
     position: relative; }
-    .zaratech_co-hero.overlay:before, .bg-img.overlay:before {
+    .AR_co-hero.overlay:before, .bg-img.overlay:before {
       position: absolute;
       content: "";
       top: 0;
@@ -691,35 +691,35 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
       background: rgba(16, 41, 231, 0.875);;
       z-index: -0; }
       
-  .zaratech_co-hero > .container, .bg-img > .container {
+  .AR_co-hero > .container, .bg-img > .container {
     position: relative;
     z-index: 2; }
-  .zaratech_co-hero, .zaratech_co-hero > .container > .row, .bg-img, .bg-img > .container > .row {
+  .AR_co-hero, .AR_co-hero > .container > .row, .bg-img, .bg-img > .container > .row {
     height: 100vh;
     min-height: 650px; }
     @media (max-width: 767.98px) {
-      .zaratech_co-hero, .zaratech_co-hero > .container > .row, .bg-img, .bg-img > .container > .row {
+      .AR_co-hero, .AR_co-hero > .container > .row, .bg-img, .bg-img > .container > .row {
         min-height: 750px; } }
-  .zaratech_co-hero.inner-page, .zaratech_co-hero.inner-page > .container > .row, .bg-img.inner-page, .bg-img.inner-page > .container > .row {
+  .AR_co-hero.inner-page, .AR_co-hero.inner-page > .container > .row, .bg-img.inner-page, .bg-img.inner-page > .container > .row {
     height: 50vh;
     min-height: 450px; }
     @media (max-width: 767.98px) {
-      .zaratech_co-hero.inner-page, .zaratech_co-hero.inner-page > .container > .row, .bg-img.inner-page, .bg-img.inner-page > .container > .row {
+      .AR_co-hero.inner-page, .AR_co-hero.inner-page > .container > .row, .bg-img.inner-page, .bg-img.inner-page > .container > .row {
         min-height: 450px; } }
-  .zaratech_co-hero .caption, .bg-img .caption {
+  .AR_co-hero .caption, .bg-img .caption {
     text-transform: uppercase;
     color: #ffffff;
     font-size: 12px;
     font-weight: 700;
     letter-spacing: .1rem; }
-  .zaratech_co-hero .heading, .bg-img .heading {
+  .AR_co-hero .heading, .bg-img .heading {
     font-size: 45px;
     font-weight: 700;
     line-height: 1.4; }
     @media (max-width: 991.98px) {
-      .zaratech_co-hero .heading, .bg-img .heading {
+      .AR_co-hero .heading, .bg-img .heading {
         font-size: 30px; } }
-  .zaratech_co-hero .link-highlight, .bg-img .link-highlight {
+  .AR_co-hero .link-highlight, .bg-img .link-highlight {
     color: #ffffff;
     position: relative;
     display: inline;
@@ -728,32 +728,32 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
     transition: .3s all ease; }
-    .zaratech_co-hero .link-highlight:hover, .bg-img .link-highlight:hover {
+    .AR_co-hero .link-highlight:hover, .bg-img .link-highlight:hover {
       -webkit-box-shadow: 0 2px 0 0 white;
       box-shadow: 0 2px 0 0 white; }
-  .zaratech_co-hero .desc, .bg-img .desc {
+  .AR_co-hero .desc, .bg-img .desc {
     font-size: 18px;
     max-width: 450px; }
     @media (max-width: 991.98px) {
-      .zaratech_co-hero .desc, .bg-img .desc {
+      .AR_co-hero .desc, .bg-img .desc {
         margin: 0 auto; } }
-  .zaratech_co-hero .cta-section, .zaratech_co-hero .cta-section > .container > .row, .bg-img .cta-section, .bg-img .cta-section > .container > .row {
+  .AR_co-hero .cta-section, .AR_co-hero .cta-section > .container > .row, .bg-img .cta-section, .bg-img .cta-section > .container > .row {
     height: 70vh;
     min-height: 450px; }
 
-.zaratech_co-section {
+.AR_co-section {
   padding: 100px 0;
   position: relative; }
   @media (max-width: 991.98px) {
-    .zaratech_co-section {
+    .AR_co-section {
       padding: 50px 0; } }
-  .zaratech_co-section .heading h3 {
+  .AR_co-section .heading h3 {
     font-size: 35px;
     color: #000000; }
   @media (max-width: 991.98px) {
-    .zaratech_co-section .heading {
+    .AR_co-section .heading {
       font-size: 20px; } }
-  .zaratech_co-section .heading strong {
+  .AR_co-section .heading strong {
     font-weight: 700; }
 
 .position-relative {
